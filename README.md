@@ -18,6 +18,6 @@ Make sure your program [ O|I ] button is set to ON and is playing (not paused).
 
 
 ### For running shaders on pi4: 
-Download this repo: https://github.com/louiselessel/Shaders-on-raspberry-pi4 [https://github.com/louiselessel/Shaders-on-raspberry-pi4]
+Download this repo: https://github.com/louiselessel/Shaders-on-raspberry-pi4
 
 and then paste generated shader code from the op called 'Pi4 shaderocde into the file called "paste_here.fs" (in folder /shaders/paste_here.fs).
