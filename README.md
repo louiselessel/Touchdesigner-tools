@@ -8,7 +8,8 @@ Converts shaders from different formats to or from touchdesigner format
 - v2 From Shadertoy to Touchdesigner to pi4 in pi3D
 
 Simply paste the code into one of the op called "paste_shadertoy_here". 
-Make sure to connect it to the op called "SHADERTOY_to_TD"
+Make sure to connect it to the op called "SHADERTOY_to_TD".
+
 Click the "Make TD Shader" button.
 
 Click the "Make Pi Shader" button.
