@@ -5,7 +5,7 @@ Small touchdesigner help tools
 ## Convert shaders:
 Converts shaders from different formats to or from touchdesigner format
 - From Shadertoy to Touchdesigner
-- From Shadertoy to Touchdesigner to pi4 (using pi3D)
+- From Shadertoy to Touchdesigner to Raspberry Pi 4 (using pi3D)
 
 This is a work in progress but it will convert rudamentary shaders with no buffers.
 
