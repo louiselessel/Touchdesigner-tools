@@ -7,8 +7,6 @@ Converts shaders from different formats to or from touchdesigner format
 - From Shadertoy to Touchdesigner
 - From Shadertoy to Touchdesigner to Raspberry Pi 4 (using pi3D)
 
-This is a work in progress but it will convert rudamentary shaders with no buffers.
-
 How to use:
 Simply paste the code into one of the op called "paste_shadertoy_here".
 Make sure to connect it to the op called "SHADERTOY_to_TD".
@@ -16,6 +14,8 @@ Make sure to connect it to the op called "SHADERTOY_to_TD".
 Click the "Make TD Shader" button.
 
 Click the "Make Pi Shader" button.
+
+If you have issues read the HOW TO operators and check the Textport before submitting an issue on Github.
 
 Make sure your program [ O|I ] button is set to ON and is playing (not paused).
 
