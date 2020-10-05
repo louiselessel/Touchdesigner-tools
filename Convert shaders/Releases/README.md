@@ -30,3 +30,5 @@ YOU CANNOT USE A SHADER COMMERCIALLY WITHOUT PERMISSION FROM THE AUTHOR
 If you wish to use a Shadertoy shader in a commercial environment, you must contact the original author of the shader and obtain permission. The shadertoyConverter component has a button to Open Site which will open the shader on the Shadertoy website where you will find the author's contact information. Usually the author will include the license information as a comment in the shader's code.
 
 For the 3 shaders included, there is a link to the original. Please visit the link to check with the authors.
+
+See also this project by Mathew Watchter that allows you to use the Shadertoy API to view and browse shaders https://github.com/matthewwachter/td-shadertoy
